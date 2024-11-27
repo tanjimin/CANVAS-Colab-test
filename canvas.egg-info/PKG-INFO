@@ -1,0 +1,53 @@
+Metadata-Version: 2.1
+Name: canvas
+Version: 0.0.1
+Summary: Self-supervised analysis for multiplexed immunofluorescence imaging
+Home-page: https://github.com/tanjimin/canvas
+Author: Jimin Tan
+Author-email: tanjimin@nyu.edu
+Keywords: canvas
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.6
+License-File: AUTHORS.rst
+
+======
+CANVAS
+======
+
+
+
+
+
+
+Self-supervised analysis for multiplexed immunofluorescence imaging
+
+
+
+Features
+--------
+
+* TODO
+
+Credits
+-------
+
+This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
+
+.. _Cookiecutter: https://github.com/audreyr/cookiecutter
+.. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+
+
+=======
+History
+=======
+
+0.0.1 (2024-03-30)
+------------------
+
+* First release on PyPI.
